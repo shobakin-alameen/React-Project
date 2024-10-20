@@ -1,0 +1,69 @@
+.gow{
+    font-size: 100px;
+    font-weight: 700;
+}
+.educaing{
+    font-size: 20px;
+}
+.sin{
+    margin-left: 36%;
+}
+.sign{
+    background-color: #b1fdaf;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.wach{
+    cursor: pointer;
+}
+.image{
+    position: absolute;
+}
+.image1{
+    cursor: pointer;
+}
+@media screen and (max-width: 600px) {
+    .gow{
+        font-size: 42px;
+        font-weight: 700;
+    }
+    .noll{
+        visibility: hidden;
+    }
+    .educaing{
+        font-size: 19px;
+    }
+    .sign{
+        background-color: #b1fdaf;
+        padding-left: 40px;
+        padding-right: 40px;
+        border-radius: 50px;
+        font-weight: 600;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+    .sin{
+        display: block;
+    }
+    .image{
+        margin-left: -20px;
+        margin-top: -10px;
+    }
+    .video{
+        margin-left: 30px;
+        margin-top: 20px ;
+    }
+    .noll{
+        margin-left: -20px;
+        margin-top: 20px;
+    }
+    .pic{
+        visibility: hidden;
+    }
+    .image1{
+        margin-top: -10px;
+    }
+}

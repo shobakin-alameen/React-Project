@@ -1,0 +1,152 @@
+.cbn{
+    padding-top: 10%;
+}
+.pics1{
+    height: 100%;
+    width: 370px;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+.cbn1{
+    padding-top: 5%;
+}
+.pics2{
+    height: 95%;
+    width: 370px;
+    margin-left: 80px;
+    margin-top: 0px;
+}
+.cbn2{
+    padding-top: 10%;
+}
+.pics3{
+    height: 100%;
+    width: 370px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.mat{
+    padding-bottom: 110px;
+    padding-top: 20%;
+}
+.cat{
+    color: hsl(206, 67%, 9%);
+    font-size: 50px;
+    font-weight: 700;
+}
+.lock{
+    color: #081A28;
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.button{
+    background-color: #081A28;
+    border-radius: 70px;
+}
+.piks{
+    width: 100px;
+    height: 100px;
+}
+.mti{
+    margin-top: 8%;
+    gap: 50px;
+}
+.youd{
+    color: #081A28;
+    font-size: large;
+    font-weight: 600;
+}
+.hhi{
+    margin-top: 10%;
+}
+.kkp{
+    margin-top: 5%;
+}
+.jfd{
+    margin-left: -10%;
+}
+.jfd1{
+    margin-left: 20%;
+}
+.hhi{
+    margin-left: 10%;
+}
+.jfd2{
+    margin-left: 40px;
+}
+.jfd3{
+    margin-left: 40px;
+}
+.jfd4{
+    margin-left: 40px;
+}
+.vvf{
+    margin-top: 100%;
+}
+.img1{
+    margin-left: 5%;
+    border-radius: 5%;
+}
+.img2{
+    margin-top: -64%;
+    margin-left: 62%;
+}
+.button1{
+    background-color: #081A28;
+    border-radius: 70px;
+}
+
+@media screen and (max-width: 600px) {
+    .mat{
+        margin-top: -100px; 
+    }
+    .bag{
+        display: flex;
+        margin-left: 13%;
+    }
+    .pics1{
+        height: 90%;
+        width: 60%;
+        margin-left: 30%;
+        margin-top: 30px;
+    }
+    .pics2{
+        height: 80%;
+        width: 60%;
+        margin-left: 53px;
+        margin-top: 20px;
+    }
+    .pics3{
+        height: 90%;
+        width: 60%;
+        margin-left: -3%;
+        margin-top: 30px;
+    }
+    .hjh{
+        display: block;
+    }
+    .button{
+        background-color: #081A28;
+        padding: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 50px;
+    }
+    .keg{
+        margin-left: 20px;
+    }
+    .hhi{
+        margin-left: 15%;
+    }
+    .jfd4{
+        visibility: hidden;
+    }
+    .mti{
+        margin-left: 15%;
+    }
+    .lol{
+        visibility: hidden;
+    }
+}
